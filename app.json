@@ -1,0 +1,12 @@
+{
+  "name": "filmation",
+  "displayName": "filmation",
+  "expo": {
+    "name": "filmation",
+    "slug": "filmation",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
