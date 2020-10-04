@@ -3,4 +3,5 @@ Home page of a comic book app. Application of libraries: react-native-carousel a
 
 To run the project: ~ expo start
 
-https://media.giphy.com/media/JNXmmBN8kAPM3mllMr/giphy.mp4
+![](https://media.giphy.com/media/JNXmmBN8kAPM3mllMr/giphy.mp4)
+
